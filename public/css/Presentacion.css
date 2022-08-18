@@ -1,0 +1,13 @@
+table td {
+	padding: 5px;
+	
+}
+
+table tr{
+	color: #000;
+}
+
+table th{
+  color: #fff;
+  background-color: #000000;
+}

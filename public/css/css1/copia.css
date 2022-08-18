@@ -1,0 +1,49 @@
+table td {
+	padding: 10px;
+	margin-right: : 3px;
+}
+
+table tr{
+	color: #000;
+}
+
+table th{
+  color: #fff;
+  background-color: #000000;
+}
+
+div{
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.container{
+	height: 5px;
+}
+.colum3{
+ 	width: 45%;
+ 	height: 300px;
+ 	background: #4A88f4;
+ 	color: #000;
+	font-size: 30px;
+	float: left;
+	padding: 3px;
+ }
+ .adentro{
+ 	width: 90%;
+ }
+.boton{
+	background: #ff8000;
+	color: #000;
+	width: 50%;
+	height: 20%;
+	margin-left: 15px;
+}
+.form-control{
+	margin-left: 20px;
+}
+
+.boton_submit{
+	margin-left: 20px;
+	background: #000;
+	color: #fff;
+}
